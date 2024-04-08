@@ -4,8 +4,8 @@
 
 ## JUAN PABLO RESTREPO
 
-## LINK DEL SITIO WEB DESPLEGADO:
-https://dsaw-2024-1.github.io/intro-to-asyncronism-jp-rco/#
+## LINK DEL SITIO WEB:
+https://react-101-o3eb-m5nv4e93j-jp-rcos-projects.vercel.app/
 
 
 ## Funcionalidades
