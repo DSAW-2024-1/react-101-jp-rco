@@ -152,10 +152,21 @@ body {
 }
 
 .error-message {
-  margin-left: 2rem;
   width: 1rem;
   color: red;
+  
 }
+ 
+
+.error{
+  width: 13rem;
+}
+
+.error2{
+  width: 13rem;
+}
+
+
 
 @media only screen and (max-width: 900px) {
 
@@ -242,7 +253,4 @@ body {
       width: 5rem;
       margin-bottom: 0;
   }
-
-
-
 }
