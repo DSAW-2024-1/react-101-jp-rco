@@ -5,8 +5,7 @@
 ## JUAN PABLO RESTREPO
 
 ## LINK DEL SITIO WEB:
-https://react-101-o3eb-m5nv4e93j-jp-rcos-projects.vercel.app/
-
+https://react-101-o3eb.vercel.app/
 
 ## Funcionalidades
 
